@@ -1,8 +1,16 @@
 {
     "name": "discordbot",
     "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
     "author": "Jules",
     "contributors": [],
-    "dependencies": {}
+    "devDependencies": {
+        "eslint": "^8.24.0"
+    }
 }
